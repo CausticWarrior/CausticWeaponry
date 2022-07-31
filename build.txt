@@ -1,0 +1,6 @@
+displayName = Caustic Weaponry v0.3.1 
+author = CausticWarrior
+version = 0.3.1
+hideResources = true;
+includeSource = true;
+hideCode = true;

@@ -1,0 +1,43 @@
+Caustic Weaponry is a small mod now, but plans to rework how players play and view terraria with a focus on quality over quantity. 
+Do not be mistaken, Caustic Weaponry will sill eventually add a slew of items for every class, and maybe even a class of its own!
+Right now the mod only adds:
+
+12 Items
+1 Material
+10 NPCs
+9 Buffs
+1 Minion
+1 Pet
+
+Future plans for the mod:
+
+5-7 new ores with their own tools and focuses
+3+ new bosses
+20+ new NPCs
+4+ Town NPCs
+150+ Unique and interesting items
+20+ potions
+
+Update V.03
+Added:
+-4 New Mimic Variants
+-5 New Slime Variants
+-Nerfed Ancient Copper Slime Spawnrates (From Last Update)
+
+Update V.02
+Added:
+-5 More Buffs That Are Not Yet Implemented
+-Upped Ancient Copper Slime Spawnrates
+-Balanced Ancient Copper Shortsword
+-Nerfed the recipe of Ancient Copper Arrows
+
+
+Update V.01
+Added:
+-Ancient Copper Shards
+-Ancient Copper Tools
+-Ancient Copper Spike Minion
+-Ancient Slime
+-Ancient Bow + Cutlass
+-4 Buffs
+-1 Pet

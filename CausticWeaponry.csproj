@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>CausticWeaponry</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="TML.Files" Version="0.2.0.1" />
+    <PackageReference Include="TML.Patcher" Version="0.2.0.1" />
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Music\" />
+    <Folder Include="Assets\Sounds\" />
+    <Folder Include="Common\CWGlobalItem\" />
+    <Folder Include="Content\Items\Consumables\Ammo\Bullets\" />
+    <Folder Include="Content\Items\Consumables\Ammo\Darts\" />
+    <Folder Include="Content\Items\Consumables\BossBags\" />
+    <Folder Include="Content\Items\Consumables\BossSummons\" />
+    <Folder Include="Content\Items\Consumables\Tiles\Banners\" />
+    <Folder Include="Content\Items\Consumables\Tiles\Bars\" />
+    <Folder Include="Content\Items\Consumables\Tiles\Ores\" />
+    <Folder Include="Content\Items\Consumables\Tiles\Placeables\" />
+    <Folder Include="Content\Items\Consumables\Tiles\Walls\" />
+    <Folder Include="Content\Items\Consumables\Tiles\Trophies\" />
+    <Folder Include="Content\Items\Equipment\Accessories\Armor\" />
+    <Folder Include="Content\Items\Equipment\Hook\" />
+    <Folder Include="Content\Items\Equipment\Vanity\BossMasks\" />
+    <Folder Include="Content\Items\Tools\FishingRod\" />
+    <Folder Include="Content\Items\Weapons\Magic\Staffs\" />
+    <Folder Include="Content\Items\Weapons\Melee\Boomerang\" />
+    <Folder Include="Content\Items\Weapons\Melee\Flail\" />
+    <Folder Include="Content\Items\Weapons\Melee\Javelin\" />
+    <Folder Include="Content\Items\Weapons\Melee\Misc\" />
+    <Folder Include="Content\Items\Weapons\Melee\Spear\" />
+    <Folder Include="Content\Items\Weapons\Melee\Yoyo\" />
+    <Folder Include="Content\Items\Weapons\Sentry\" />
+    <Folder Include="Content\Items\Weapons\Whips\" />
+    <Folder Include="Content\NPCs\Boss\" />
+    <Folder Include="Content\NPCs\Town\" />
+    <Folder Include="Interface\" />
+    <Folder Include="Localisation\" />
+  </ItemGroup>
+</Project>
